@@ -1,0 +1,45 @@
+.comment {
+  margin-bottom: 40px;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  padding: 5px 10px;
+}
+
+.commentList {
+
+}
+
+.commentForm {
+  width: 50%;
+  margin: 10px auto;
+}
+
+.commentForm input[type="text"] {
+  display: block;
+  clear: both;
+  width: 100%;
+  height: 32px;
+  margin: 5px;
+}
+
+.commentBox {
+
+}
+
+#content {
+  position: relative;
+  margin: 5px auto;
+  width: 700px;
+  background: white;
+  padding: 5px 20px;
+}
+
+body {
+  font-family: "Avenir Next", "Helvetica", sans-serif;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+}
